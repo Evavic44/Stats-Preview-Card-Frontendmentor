@@ -1,6 +1,8 @@
-# Frontend Mentor - Stats preview card component
+<h2 align="center">Frontend Mentor - Stats preview card component</h2>
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5694d0ca-05cc-4784-b4c9-26a18ae3e113/deploy-status)](https://app.netlify.com/sites/stats-preview-card-evavic44/deploys)
+
+<img src="https://user-images.githubusercontent.com/62628408/118166271-2bfd3d80-b41d-11eb-833b-9074ae924f4b.jpg" width="500px">
 
 ## Welcome! 👋
 
