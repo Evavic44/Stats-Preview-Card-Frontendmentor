@@ -1,3 +1,8 @@
+<h2 align="center">Frontend Mentor - Stats preview card component</h2>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5694d0ca-05cc-4784-b4c9-26a18ae3e113/deploy-status)](https://app.netlify.com/sites/stats-preview-card-evavic44/deploys)
+
+## Welcome! 👋
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -15,11 +20,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Acknowledgments](#acknowledgments)
 
 > ### `Overview`
-<h2 align="center">Frontend Mentor - Stats preview card component</h2>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5694d0ca-05cc-4784-b4c9-26a18ae3e113/deploy-status)](https://app.netlify.com/sites/stats-preview-card-evavic44/deploys)
-
-## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
