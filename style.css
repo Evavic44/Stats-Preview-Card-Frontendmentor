@@ -65,7 +65,7 @@ img {
 }
 
 .main-heading {
-    /* font-family: 'Inter', sans-serif; */
+    font-family: 'Inter', sans-serif;
     font-weight: 700;
     font-size: 2.2rem;
     padding-bottom: 25px;
@@ -74,7 +74,7 @@ img {
 }
 
 .main-paragraph {
-    /* font-family: Lexend Deca;  */
+    font-family: 'Lexend', sans-serif;
     color: var(--text-secondary-card);
     font-weight: 400;
     font-size: 15px;
@@ -83,22 +83,21 @@ img {
 }
 
 .stats {
-    /* font-family: Lexend Deca;  */
+    font-family: 'Inter', sans-serif;
     display: flex;
     align-items: center;
 }
 
 .stats div {
-    margin-right: 50px;
+    margin-right: 70px;
 }
 
 .stats div h3 {
-    font-size: 20px;
     font-weight: 700px;
 }
 
 .stats div p {
-    font-size: 12px;
+    font-size: 10px;
     color: var(--text-secondary-card);
 }
 
