@@ -7,17 +7,17 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Overview](###overview)
+  - [The challenge](###the-challenge)
+  - [Screenshot](###screenshot)
+  - [Links](###links)
+- [My process](###my-process)
+  - [Built with](###built-with)
+  - [What I learned](###what-i-learned)
+  - [Continued development](###continued-development)
+  - [Useful resources](###useful-resources)
+- [Author](###author)
+- [Acknowledgments](###acknowledgments)
 
 ### Overview
 
@@ -43,21 +43,19 @@ Users should be able to:
 - Solution URL: [GitHub](https://github.com/Evavic44)
 - Live Site URL: [Live](https://stats-preview-card-evavic44.netlify.app/)
 
-### My process
-
 ### Built with
 
 - Semantic HTML5 markup
 - CSS3 styling
-- No frameworks or pprogramming language was used. Just plain old HTML, CSS
+- No frameworks or programming language was used. Just plain old HTML, CSS
 
 ### What I learned
 <h4>Building this project has helped me to fortify my CSS skills in the following departments</h4>
 
-- Adding max-width to a container element. This is one of the issues I struggled with. After adding the flex property, the card box was too spaced out and
+- Alignment: This is one of the issues I struggled with. After adding the flex property to the column classes, the card box was too spaced out and elements shrinked on smaller screens, by adding the `max-width` and ```margin: 0 auto;``` property, the text properly aligned to the container. _This might help if you plan on taking this challenge_
 
 ### Code Snippets
-I added the provided color code pallete to a var property as seen below. This pallete was really helpful for me, and adding it to a variable for easy reference is highly recommended.
+I added the provided color code pallete to a var property as seen below. This pallete was really helpful to me _adding it to a variable for easy reference is highly recommended_.
 
 ```css
 :root {
@@ -70,15 +68,14 @@ I added the provided color code pallete to a var property as seen below. This pa
 }
 ```
 
-```html
-<h1>Some HTML code I'm proud of</h1>
+
+Since the font family link was gracefully provided by [Frontend Mentor](https://www.frontendmentor.io) on google fonts, I added it to the `css` easily using the css import property. _Do check it out for adding the fonts easily [here](https://fonts.google.com/specimen/Inter?query=inter)_
+```css
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Going forward, I would like to improve on my `CSS` skills -primarily on Alignment and Positioning. WHY!? well because I'm not quite satisfied with the length of `CSS` code I wrote to achieve this owing that to the alignment sections of this challenge.   
 
 ### Useful resources
 
@@ -93,4 +90,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Credit goes to the team at [Frontend Mentor](https://www.frontendmentor.io) for putting out this challenge freely. You all ROCK! 💎 
