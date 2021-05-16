@@ -69,7 +69,7 @@ I added the provided color code pallete to a var property as seen below. This pa
 ```
 
 
-Since the font family link was gracefully provided by [Frontend Mentor](https://www.frontendmentor.io) on google fonts, I added it to the `css` easily using the css import property. _Do check it out for adding the fonts easily [here](https://fonts.google.com/specimen/Inter?query=inter)_
+Since the font family was gracefully provided by [Frontend Mentor](https://www.frontendmentor.io) on google fonts, I added it to the `css` easily using the css import property. _Do check it out for adding the fonts easily [here](https://fonts.google.com/specimen/Inter?query=inter)_
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 ```
