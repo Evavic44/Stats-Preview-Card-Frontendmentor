@@ -30,7 +30,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 1000px;
-    margin: 9rem auto 1rem;
+    margin: 10.5rem auto 0.5rem;
 }
 
 .column {
@@ -69,7 +69,7 @@ img {
 .main-heading {
     font-family: 'Inter', sans-serif;
     font-weight: 700;
-    font-size: 2.1rem;
+    font-size: 2.2rem;
     padding-bottom: 25px;
     line-height: 1.2;
     text-align: left;
@@ -96,7 +96,7 @@ img {
 
 .stats div h3 {
     font-weight: 700px;
-    font-size: 1.35rem;
+    font-size: 1.47rem;
 }
 
 .stats div p {
