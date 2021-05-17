@@ -21,8 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://user-images.githubusercontent.com/62628408/118215538-94720c00-b469-11eb-8e53-63816db7738a.png" width="500px">
-
+<img src="https://user-images.githubusercontent.com/62628408/118499669-12127200-b71f-11eb-99e4-7bfdfaa4c9d2.png" width="500px">
 
 ### Links
 
@@ -66,7 +65,6 @@ Going forward, I would like to improve on my `CSS` skills -primarily on Alignmen
 ### Useful resources
 
 - [Cooolors](https://www.cooolors.co) - This helped me to generate and convert the `HSL` css color codes to `HEX` which I'm probably more used to.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ### Author
 
