@@ -30,7 +30,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 1000px;
-    margin: 5rem auto;
+    margin: 5rem auto 4rem;
 }
 
 .column {
@@ -143,13 +143,15 @@ img {
 /* Footer Styles */
 
 footer {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
     text-align: center;
-    padding: 1rem 3rem;
+    padding: 0 3rem;
     color: #fff;
 }
 
 footer a {
-    color: #fff;
+    color: var(--accent);
 }
 
 @media(max-width: 600px) {
