@@ -176,8 +176,8 @@ img {
 
 @media(max-width: 600px) {
     .main-heading {
-        font-size: 2.2rem;
-        margin: 0 30px;
+        font-size: 2rem;
+        margin: 0 20px;
     }
 
     .main-paragraph {
