@@ -30,7 +30,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 1000px;
-    margin: 5rem auto 4rem;
+    margin: 7.4rem auto;
 }
 
 .column {
@@ -99,7 +99,8 @@ img {
 }
 
 .stats div p {
-    font-size: 10px;
+    font-size: 12px;
+    margin-top: 3px;
     color: var(--text-secondary-card);
 }
 
