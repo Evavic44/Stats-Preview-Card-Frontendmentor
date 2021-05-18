@@ -30,7 +30,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     max-width: 1000px;
-    margin: 10.5rem auto 0.5rem;
+    margin: 10.9rem auto 0.5rem;
 }
 
 .column {
@@ -56,7 +56,7 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 2rem 2.3rem;
+    padding: 2rem 2.5rem 2rem 3rem;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
@@ -79,9 +79,9 @@ img {
     font-family: 'Lexend', sans-serif;
     color: var(--text-secondary-card);
     font-weight: 400;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 1.6;
-    margin: 0 15px 50px 0;
+    margin: 0 15px 60px 0;
 }
 
 .stats {
